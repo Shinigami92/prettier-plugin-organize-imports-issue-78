@@ -7,13 +7,13 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "vue": "3.2.41"
+    "vue": "3.2.43"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "3.2.0",
     "@volar/vue-language-plugin-pug": "1.0.9",
     "prettier": "2.7.1",
-    "prettier-plugin-organize-imports": "3.1.1",
+    "prettier-plugin-organize-imports": "3.2.0",
     "pug": "3.0.2",
     "typescript": "4.8.4",
     "vite": "3.2.3",

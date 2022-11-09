@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import MyComponent from '@/components/MyComponent.vue'
+import MyComponent from "@/components/MyComponent.vue";
 </script>
 
 <template lang="pug">
