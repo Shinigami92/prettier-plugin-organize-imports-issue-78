@@ -7,7 +7,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "vue": "3.2.43"
+    "vue": "3.2.45"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "3.2.0",
